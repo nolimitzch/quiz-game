@@ -9,7 +9,7 @@ tells you instantly if you're right, and saves your high score.
 ## How to run
 1. Install Python from python.org
 2. Download quizloop.py
-3. Run it: python quizloop.py
+3. Run it: python3 quizloop.py
 
 ## What I learned
 - Using lists and loops to ask many questions
